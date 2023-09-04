@@ -1,6 +1,6 @@
 # ConversorTemperatura
 
-|| Conversor de Temperatura desenvolvido em Python. ||
+Conversor de Temperatura desenvolvido em Python.
 
 1. Solicitando uma temperatura para o usuário;
 2. Solicitando a unidade de medida de temperatura para o usuário;
@@ -23,4 +23,4 @@
    Kelvin -> Celsius : 0 K − 273,15 = -273,1 °C
    Kelvin -> Fahrenheit : (0 K − 273,15) × 9/5 + 32 = -459,7 °F
    --------------------------------------------
-9. Por fim é
+9. Por fim é mostrado ao usuário a conversão da temperatura para a unidade de medida solicitada.
